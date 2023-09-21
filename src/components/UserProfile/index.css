@@ -1,0 +1,28 @@
+.c2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.i1 {
+  height: 60px;
+  border-radius: 45px;
+}
+.h1 {
+  font-size: 20px;
+}
+.p1 {
+  font-size: 10px;
+}
+.c3 {
+  margin: 15px;
+}
+.btn {
+  height: 15px;
+  width: 15px;
+}
+.btn2 {
+  background-color: transparent;
+  border-radius: 0px;
+  border-width: 0px;
+}
